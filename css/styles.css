@@ -363,7 +363,6 @@ nav ul li {
   flex: 1;
 }
 nav li.active {
-  background-color: rgb(50, 227, 118);
   border: 0.5px solid gray;
 }
 nav a {
